@@ -1,4 +1,4 @@
-// MENGSUI — Agricultural Plant Protection Drones
+// MENGSUI — 3C Consumer Electronics
 // ============================================================
 // TODO: Replace with the client's real WhatsApp number before handover.
 // Format: country code + number, digits only (no "+", spaces or dashes).
@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function () {
         return el ? el.value.trim() : '';
       }
       var lines = [
-        'Hello MENGSUI team, I would like to inquire about your agricultural drones.',
+        'Hello MENGSUI team, I would like to inquire about your 3C consumer electronics products.',
         '',
         'Name: ' + val('name'),
         'Company: ' + (val('company') || '-'),
